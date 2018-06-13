@@ -1,0 +1,8 @@
+{
+  "name": "Fatima",
+  "app_id": "92001304",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
